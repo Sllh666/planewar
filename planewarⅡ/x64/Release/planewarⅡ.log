@@ -1,0 +1,91 @@
+﻿  test.cpp
+E:\c\planewarⅡ\test.cpp(30,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+  D:\VS\VC\Auxiliary\VS\include\easyx.h(258,6):
+  可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+  	E:\c\planewarⅡ\test.cpp(30,2):
+  	“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [24]”转换为“LPCTSTR”
+  		E:\c\planewarⅡ\test.cpp(30,17):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  E:\c\planewarⅡ\test.cpp(30,2):
+  尝试匹配参数列表“(IMAGE *, const char [24])”时
+  
+E:\c\planewarⅡ\test.cpp(31,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+  D:\VS\VC\Auxiliary\VS\include\easyx.h(258,6):
+  可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+  	E:\c\planewarⅡ\test.cpp(31,2):
+  	“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [27]”转换为“LPCTSTR”
+  		E:\c\planewarⅡ\test.cpp(31,26):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  E:\c\planewarⅡ\test.cpp(31,2):
+  尝试匹配参数列表“(IMAGE *, const char [27])”时
+  
+E:\c\planewarⅡ\test.cpp(32,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+  D:\VS\VC\Auxiliary\VS\include\easyx.h(258,6):
+  可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+  	E:\c\planewarⅡ\test.cpp(32,2):
+  	“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [27]”转换为“LPCTSTR”
+  		E:\c\planewarⅡ\test.cpp(32,26):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  E:\c\planewarⅡ\test.cpp(32,2):
+  尝试匹配参数列表“(IMAGE *, const char [27])”时
+  
+E:\c\planewarⅡ\test.cpp(34,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+  D:\VS\VC\Auxiliary\VS\include\easyx.h(258,6):
+  可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+  	E:\c\planewarⅡ\test.cpp(34,2):
+  	“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [21]”转换为“LPCTSTR”
+  		E:\c\planewarⅡ\test.cpp(34,26):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  E:\c\planewarⅡ\test.cpp(34,2):
+  尝试匹配参数列表“(IMAGE *, const char [21])”时
+  
+E:\c\planewarⅡ\test.cpp(35,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+  D:\VS\VC\Auxiliary\VS\include\easyx.h(258,6):
+  可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+  	E:\c\planewarⅡ\test.cpp(35,2):
+  	“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [21]”转换为“LPCTSTR”
+  		E:\c\planewarⅡ\test.cpp(35,26):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  E:\c\planewarⅡ\test.cpp(35,2):
+  尝试匹配参数列表“(IMAGE *, const char [21])”时
+  
+E:\c\planewarⅡ\test.cpp(37,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+  D:\VS\VC\Auxiliary\VS\include\easyx.h(258,6):
+  可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+  	E:\c\planewarⅡ\test.cpp(37,2):
+  	“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [21]”转换为“LPCTSTR”
+  		E:\c\planewarⅡ\test.cpp(37,30):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  E:\c\planewarⅡ\test.cpp(37,2):
+  尝试匹配参数列表“(IMAGE *, const char [21])”时
+  
+E:\c\planewarⅡ\test.cpp(38,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+  D:\VS\VC\Auxiliary\VS\include\easyx.h(258,6):
+  可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+  	E:\c\planewarⅡ\test.cpp(38,2):
+  	“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [21]”转换为“LPCTSTR”
+  		E:\c\planewarⅡ\test.cpp(38,30):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  E:\c\planewarⅡ\test.cpp(38,2):
+  尝试匹配参数列表“(IMAGE *, const char [21])”时
+  
+E:\c\planewarⅡ\test.cpp(39,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+  D:\VS\VC\Auxiliary\VS\include\easyx.h(258,6):
+  可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+  	E:\c\planewarⅡ\test.cpp(39,2):
+  	“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [25]”转换为“LPCTSTR”
+  		E:\c\planewarⅡ\test.cpp(39,30):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  E:\c\planewarⅡ\test.cpp(39,2):
+  尝试匹配参数列表“(IMAGE *, const char [25])”时
+  
+E:\c\planewarⅡ\test.cpp(40,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+  D:\VS\VC\Auxiliary\VS\include\easyx.h(258,6):
+  可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+  	E:\c\planewarⅡ\test.cpp(40,2):
+  	“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [25]”转换为“LPCTSTR”
+  		E:\c\planewarⅡ\test.cpp(40,30):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  E:\c\planewarⅡ\test.cpp(40,2):
+  尝试匹配参数列表“(IMAGE *, const char [25])”时
+  
